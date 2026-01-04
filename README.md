@@ -36,7 +36,7 @@ I'm **Ketan**, a BCA student and Frontend Developer from India 🇮🇳
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmakwana30&show_icons=true&theme=radical)
 
 ---
@@ -45,6 +45,6 @@ I'm **Ketan**, a BCA student and Frontend Developer from India 🇮🇳
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmakwana30&layout=compact&theme=radical)
 
 
----
+---  -->
 
 ⭐ Keep learning. Keep building. Keep growing.
